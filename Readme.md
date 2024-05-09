@@ -25,11 +25,12 @@ This project is a Django-based RESTful API for managing books.
 3. Create virtual environment:
 
     '''bash
-    python -m venv .ven
-    .venv\scripts\activate
+   python -m venv .venv
+
+   .venv\scripts\activate
     '''
 
-4. Install dependencies:
+5. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
